@@ -2,7 +2,7 @@
 
 Hi, I'm Zhenxin. I study Statistics and Machine Learning at CMU. And I'm a software engineer at Meta.
 
-When I'm not coding, I'm creativing posters and drawings. And I love combing engineering and art :)
+When I'm not coding, I'm creating posters and drawings. And I love combing engineering and art :)
 
 Now I'm learning Generative Adversarial Networks (GANs) via building Basic GANs!
 
